@@ -1,6 +1,6 @@
 # Varsha
 
-## Profesional Summary
+## Professional Summary
 • 1 year 9 months of experience of Front-end development using frameworks like Angular.
 
 • Implemented MVC pattern for project development.
